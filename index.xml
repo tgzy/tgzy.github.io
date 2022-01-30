@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jan 2022 19:48:32 +0100</lastBuildDate><atom:link href="https://tgzy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Imprint</title>
+      <link>https://tgzy.github.io/imprint/</link>
+      <pubDate>Sun, 30 Jan 2022 20:30:19 +0100</pubDate>
+      
+      <guid>https://tgzy.github.io/imprint/</guid>
+      <description>Impressum </description>
+    </item>
+    
+    <item>
       <title>Testing</title>
       <link>https://tgzy.github.io/posts/testing/</link>
       <pubDate>Sun, 30 Jan 2022 19:48:32 +0100</pubDate>
