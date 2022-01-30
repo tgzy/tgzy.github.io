@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tgzy.github.io/categories/</loc>
+    <lastmod>2022-01-30T22:01:48+01:00</lastmod>
+  </url><url>
     <loc>https://tgzy.github.io/</loc>
+    <lastmod>2022-01-30T22:01:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tgzy.github.io/categories/firstcategory/</loc>
     <lastmod>2022-01-30T22:01:48+01:00</lastmod>
   </url><url>
     <loc>https://tgzy.github.io/tags/firsttag/</loc>
@@ -12,6 +18,9 @@
     <lastmod>2022-01-30T22:01:48+01:00</lastmod>
   </url><url>
     <loc>https://tgzy.github.io/posts/</loc>
+    <lastmod>2022-01-30T22:01:48+01:00</lastmod>
+  </url><url>
+    <loc>https://tgzy.github.io/categories/secondcategory/</loc>
     <lastmod>2022-01-30T22:01:48+01:00</lastmod>
   </url><url>
     <loc>https://tgzy.github.io/tags/secondtag/</loc>
@@ -30,7 +39,5 @@
     <lastmod>2022-01-30T19:48:32+01:00</lastmod>
   </url><url>
     <loc>https://tgzy.github.io/archives/</loc>
-  </url><url>
-    <loc>https://tgzy.github.io/categories/</loc>
   </url>
 </urlset>
