@@ -25,7 +25,7 @@
       <pubDate>Mon, 07 Feb 2022 09:36:15 +0100</pubDate>
       
       <guid>https://tgzy.github.io/podcast/s1e1_my-own-podcast/</guid>
-      <description>{{ .Title }} </description>
+      <description>My own podcast </description>
     </item>
     
   </channel>
