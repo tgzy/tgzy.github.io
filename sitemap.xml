@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tgzy.github.io/categories/</loc>
-    <lastmod>2022-01-30T22:01:48+01:00</lastmod>
-  </url><url>
     <loc>https://tgzy.github.io/</loc>
+    <lastmod>2022-02-07T09:49:03+01:00</lastmod>
+  </url><url>
+    <loc>https://tgzy.github.io/podcast/</loc>
+    <lastmod>2022-02-07T09:49:03+01:00</lastmod>
+  </url><url>
+    <loc>https://tgzy.github.io/podcast/s1e2_my-second-podcast/</loc>
+    <lastmod>2022-02-07T09:49:03+01:00</lastmod>
+  </url><url>
+    <loc>https://tgzy.github.io/podcast/s1e1_my-own-podcast/</loc>
+    <lastmod>2022-02-07T09:36:15+01:00</lastmod>
+  </url><url>
+    <loc>https://tgzy.github.io/categories/</loc>
     <lastmod>2022-01-30T22:01:48+01:00</lastmod>
   </url><url>
     <loc>https://tgzy.github.io/categories/firstcategory/</loc>
