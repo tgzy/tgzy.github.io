@@ -1,46 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite – Podcasts</title>
+    <title>Podcasts on ExampleSite</title>
     <link>https://tgzy.github.io/podcast/</link>
     <description>Recent content in Podcasts on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://tgzy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tgzy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Feb 2022 09:49:03 +0100</lastBuildDate>
-    
-	  <atom:link href="https://tgzy.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <lastBuildDate>Mon, 07 Feb 2022 09:49:03 +0100</lastBuildDate><atom:link href="https://tgzy.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Podcast: S1e2_my Second Podcast</title>
+      <title>S1e2_my Second Podcast</title>
       <link>https://tgzy.github.io/podcast/s1e2_my-second-podcast/</link>
       <pubDate>Mon, 07 Feb 2022 09:49:03 +0100</pubDate>
       
       <guid>https://tgzy.github.io/podcast/s1e2_my-second-podcast/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;my-second-podcast&#34;&gt;My Second Podcast&lt;/h2&gt;
-&lt;p&gt;See this link to listen to our newest one.&lt;/p&gt;
-
-      </description>
+      <description>My Second Podcast See this link to listen to our newest one.</description>
     </item>
     
     <item>
-      <title>Podcast: S1e1_my Own Podcast</title>
+      <title>S1e1_my Own Podcast</title>
       <link>https://tgzy.github.io/podcast/s1e1_my-own-podcast/</link>
       <pubDate>Mon, 07 Feb 2022 09:36:15 +0100</pubDate>
       
       <guid>https://tgzy.github.io/podcast/s1e1_my-own-podcast/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;my-own-podcast&#34;&gt;My own podcast&lt;/h2&gt;
-
-      </description>
+      <description>Description for the very first podcast.</description>
     </item>
     
   </channel>

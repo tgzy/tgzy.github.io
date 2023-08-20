@@ -1,50 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite – secondCategory</title>
+    <title>secondCategory on ExampleSite</title>
     <link>https://tgzy.github.io/categories/secondcategory/</link>
     <description>Recent content in secondCategory on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://tgzy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tgzy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jan 2022 22:01:48 +0100</lastBuildDate>
-    
-	  <atom:link href="https://tgzy.github.io/categories/secondcategory/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
+    <lastBuildDate>Sun, 30 Jan 2022 22:01:48 +0100</lastBuildDate><atom:link href="https://tgzy.github.io/categories/secondcategory/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Posts: Hugo post</title>
+      <title>Hugo post</title>
       <link>https://tgzy.github.io/posts/hugo_post/</link>
       <pubDate>Sun, 30 Jan 2022 22:01:48 +0100</pubDate>
       
       <guid>https://tgzy.github.io/posts/hugo_post/</guid>
-      <description>
-        
-        
-        
-      </description>
+      <description>Desc Text.</description>
     </item>
     
     <item>
-      <title>Posts: What to do</title>
+      <title>What to do</title>
       <link>https://tgzy.github.io/posts/what_to_do/</link>
       <pubDate>Sun, 30 Jan 2022 20:34:21 +0100</pubDate>
       
       <guid>https://tgzy.github.io/posts/what_to_do/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
-&lt;h2 id=&#34;bicycle&#34;&gt;Bicycle&lt;/h2&gt;
-&lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.&lt;/p&gt;
-&lt;h2 id=&#34;motorbike&#34;&gt;Motorbike&lt;/h2&gt;
-&lt;p&gt;Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
-&lt;p&gt;Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
-
-      </description>
+      <description>Desc Text.</description>
     </item>
     
   </channel>
